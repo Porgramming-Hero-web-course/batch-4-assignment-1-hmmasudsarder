@@ -11,4 +11,6 @@ function removeDuplicates(number: number[]) {
     return removedDupli;
   }
 
-//   const result = [1, 2, 3, 4, 5, 6, 5, 3];
+  const result = [1, 2, 3, 4, 5, 6, 5, 3];
+  
+  // console.log(removeDuplicates(result));

@@ -26,6 +26,6 @@ function countWordOccurrences(sentence: string, word: string): number {
   return lowercaseSentence.split(lowercaseWord).length -1;
 }
 
-console.log(
-  countWordOccurrences("I love typescript try to learn typescript", "typescript")
-);
+// console.log(
+//   countWordOccurrences("I love typescript try to learn typescript", "r")
+// );
