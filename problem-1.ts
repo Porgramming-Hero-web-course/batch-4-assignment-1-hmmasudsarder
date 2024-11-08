@@ -9,4 +9,4 @@ function sumArray(number: number[]): number {
   return sum;
 }
 
-// console.log(sumArray([1, 2, 3, 4, 5, 6]));
+// console.log(sumArray([1, 2, 3, 4, 5]));

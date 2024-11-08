@@ -20,4 +20,4 @@ interface Profile {
     email: "alice@example.com"
   };
   
-//   console.log(updateProfile(myProfile, { age: 29,}));
+  console.log(updateProfile(myProfile, { age: 29,}));
