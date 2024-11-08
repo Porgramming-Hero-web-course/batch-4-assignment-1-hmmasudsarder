@@ -58,3 +58,7 @@ typeof: Check basic types like string, number, etc.
 instanceof: Check if an object is an instance of a class.
 Custom Type Guards: Write custom checks for complex cases.
 in Operator: Check if an object has a specific property.
+
+
+Best Regards
+Masud Sarder

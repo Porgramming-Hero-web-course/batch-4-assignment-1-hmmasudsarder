@@ -10,6 +10,7 @@ interface Profile {
 
   function updateProfile(profile: Profile, updates: Partial<Profile>): Profile {
     const updatedProfile = { ...profile, ...updates};
+    // return updatedProfile = { ...profile, ...updates};
     return updatedProfile;
   }
   
